@@ -78,11 +78,13 @@ Open in browser:
 arduino
 Copy code
 http://localhost:4000
+
 🔐 Login Credentials
 makefile
 Copy code
 Username: admin
 Password: admin123
+
 🎨 Features
 Add, view, edit, and delete users
 
